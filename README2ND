@@ -1,14 +1,12 @@
 NAME
 
-       Char::JIS8 - Source code filter for JIS8 script (Imitation JPerl)
+       JIS8 - Source code filter for JIS8 script (Imitation JPerl)
 
 SYNOPSIS
 
     In your script:
 
-      use Char::JIS8; # CPAN formal style
-         or
-      use JIS8; # casual style
+      use JIS8;
 
     At command prompt:
 
